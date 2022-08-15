@@ -1,0 +1,19 @@
+.App {
+    display: flex;
+    flex-direction: column;
+}
+
+.App > * {
+    width: 350px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
